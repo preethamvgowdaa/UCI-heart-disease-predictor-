@@ -1,4 +1,5 @@
-﻿# UCI-heart-disease Predictor!!
+﻿# UCI-heart-disease Predictor
+
 
 
 
