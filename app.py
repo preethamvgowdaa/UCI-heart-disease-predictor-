@@ -11,7 +11,7 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
-# Page configuration !! 
+# Page configuration
 st.set_page_config(
     page_title="Heart Disease Risk Calculator",
     page_icon="❤️",
